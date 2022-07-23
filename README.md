@@ -26,6 +26,6 @@
 
 - 
 
-<h2>Issue</h2>
+<h2>:heavy_exclamation_mark:Issue</h2>
 
 - 사이트 카메라 및 마이크 권한 설정 실패: 자세한 실행 결과 확인 불가능
