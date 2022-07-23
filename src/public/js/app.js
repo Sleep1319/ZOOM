@@ -188,3 +188,4 @@ function handleAddStream(data) {
 //다시 업로드 테스트
 //이번엔 성공하나?
 //이번에도 하나?
+//노트북도 연결
